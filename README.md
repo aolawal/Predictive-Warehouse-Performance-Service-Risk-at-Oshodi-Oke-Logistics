@@ -266,7 +266,7 @@ Future growth may quickly expose labor and processing constraints.
 # Recommended Actions
 Immediate Priorities (0–90 Days)
 
-1. Deploy Dispatch Risk Monitoring
+# 1. Deploy Dispatch Risk Monitoring
 
 Identify and prioritize:
 
@@ -274,14 +274,14 @@ Identify and prioritize:
 - Orders Near Cut-Off
 - Orders With Inventory Issues
 
-2. Reduce Returns
+# 2. Reduce Returns
 
 Focus on:
 - Picking Accuracy
 - Packing Quality
 - Damage Prevention
   
-3. Introduce Warehouse Scorecards
+# 3. Introduce Warehouse Scorecards
 
 Track:
 
@@ -292,7 +292,8 @@ Track:
 across all warehouse locations.
 
 Medium-Term Priorities (3–12 Months)
-4. Build Capacity Forecasting
+
+# 4. Build Capacity Forecasting
 
 Forecast:
 
@@ -302,7 +303,7 @@ Forecast:
 
 by warehouse and shift.
 
-5. Implement Productivity Benchmarking
+# 5. Implement Productivity Benchmarking
 
 Create performance standards for:
 
@@ -315,13 +316,13 @@ to prevent service failure.
 
 While current performance remains stable, indicators such as a 12% return rate, 1,000 late shipments, and 90% On-Time Delivery performance suggest that operational inefficiencies are already impacting service reliability and profitability.
 
-The opportunity is clear:
+### The opportunity is clear:
 
 The business does not need more data. The business needs earlier visibility into operational risk.
 
 By shifting from historical reporting to predictive performance monitoring, management can identify productivity losses, forecast backlog growth, quantify capacity constraints, and intervene on at-risk orders before dispatch deadlines are missed.
 
-Success should no longer be measured by the number of orders processed, but by the organization's ability to consistently answer three critical questions:
+**Success should no longer be measured by the number of orders processed, but by the organization's ability to consistently answer three critical questions:**
 
 - Which orders are at risk right now?
 - Why are they at risk?
@@ -363,7 +364,7 @@ The expected outcomes are:
 
 # Key Takeaway
 
-The future competitive advantage of Oshodi-Oke Logistics will not come from processing more orders than competitors. It will come from identifying operational risk earlier, making faster decisions, and preventing service failures before customers experience them.
+The future competitive advantage of Oshodi-Oke Logistics will not come from processing more orders. It will come from identifying operational risk earlier, making faster decisions, and preventing service failures before customers are impacted.
 
 
 # Final Recommendation
